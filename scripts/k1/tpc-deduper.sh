@@ -5,7 +5,7 @@
 # user's KotOR override directory.
 
 # Default to Steam game path. Change if using another platform.
-GAMEDIR="$HOME/.local/share/Steam/steamapps/common/swkotor"
+GAMEDIR="/Users/jbmc92/Library/Application Support/Steam/steamapps/common/swkotor"
 OVERRIDE="$GAMEDIR/override"
 
 
